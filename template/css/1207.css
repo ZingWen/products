@@ -1,0 +1,30 @@
+.ob_fit {
+    object-fit: contain;
+    width: 140%;
+    height: 140%;
+    overflow: hidden;
+}
+
+.img {
+    width: 60px;
+    height: 70px;
+}
+
+.rating {
+    width: 10px;
+    height: 20px;
+}
+
+.img_container {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+#currentImageForm {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+*>a {
+    direction: none;
+}
